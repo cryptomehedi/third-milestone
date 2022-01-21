@@ -1,0 +1,33 @@
+.panda-head-slider{
+    margin-top: 100px;
+}
+.panda-bdr-red{
+    border-radius: 20px;
+}
+.panda-bd-info{
+    background-color: #FCEAE8;
+}
+.panda-bg-cate-1{
+    background-color: #FFA500;
+}
+.panda-bg-cate-2{
+    background-color: #DA70D6;
+}
+.panda-bg-cate-3{
+    background-color: #0000FF;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn{
+    color: wheat;
+    font-size: bold;
+    background-color: #ff408cad;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    height: 40px;
+}
+.panda-btn:hover{
+    background-color: #FF408C;
+}
